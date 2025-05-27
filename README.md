@@ -49,5 +49,6 @@
 
 ## 📫 Get in Touch
 
-- LinkedIn:[[linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/denisgogoli/).  
-- Email: [gogolidenis@gmail.com](mailto:gogolidenis@gmail.com)  
+- LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/denisgogoli/)  
+- Email: [gogolidenis@gmail.com](mailto:gogolidenis@gmail.com)
+
