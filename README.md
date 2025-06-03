@@ -17,25 +17,24 @@
 
 ## 🛠 Tech Stack & Tools
 
-- 👨‍💻 Languages: `Python`, `SQL` (learning), `C` (learning)
+- 👨‍💻 Languages: `Python`, `SQL`, `C` (learning)
 - 📊 Data Analysis and ML: Pandas, Nunmpy, Scikit-learn, Tensorflow
-- 🧩 Playing with Arduino, planning to dive into STM32 and other microcontrollers
+- 🧩 Playing with Arduino, planning to dive into STM32, ESP32 and other microcontrollers
 
 ---
 
 ## 📌 Projects
 
 - 🔍 **Crop Recommendation** — basic model inspired by Kaggle datasets *(published)*
-- 🧠 **Assignment Algorithm** — a project I’m proud of (coming soon!)
+- 🧠 **More projects** coming soon!
 - ⚡ Love building systems that *optimize* — especially with operations research and algorithmic thinking
 
 ---
 
 ## 🌱 Currently Learning
 
-- Deepening my knowledge of `SQL` and `C`
-- Exploring microcontroller development
-- Finishing my Master’s
+- Exploring embedded systems
+- Finishing my Master’s degree
 
 ---
 
