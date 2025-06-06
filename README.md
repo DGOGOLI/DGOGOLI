@@ -19,6 +19,7 @@
 
 - 👨‍💻 Languages: `Python`, `C` (learning)
 - 📊 Data Analysis and ML: Pandas, Nunmpy, Scikit-learn, Tensorflow, Seaborn / Matplotlib (EDA)
+- 🗄️ Database Management: SQL (PostgreSQL, MySQL, Oracle), NoSQL (MongoDB)
 - 🧩 Playing with Arduino, planning to dive into STM32, ESP32 and other microcontrollers
 
 ---
