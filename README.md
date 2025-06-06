@@ -2,7 +2,7 @@
 
 🎓 Master's student in Management Engineering based in Genoa, Italy  
 💼 Currently working with Microsoft Power Platform building low-code business solutions  
-🚀 Actively looking for a more technical role — interested in **IoT**, **Data Engineering** and **Quantitative Analysis**
+🚀 Actively looking for a more technical role — interested in **IoT**, **Data Science** and **Quantitative Analysis**
 
 ---
 
@@ -17,24 +17,16 @@
 
 ## 🛠 Tech Stack & Tools
 
-- 👨‍💻 Languages: `Python`, `SQL`, `C` (learning)
-- 📊 Data Analysis and ML: Pandas, Nunmpy, Scikit-learn, Tensorflow
+- 👨‍💻 Languages: `Python`, `C` (learning)
+- 📊 Data Analysis and ML: Pandas, Nunmpy, Scikit-learn, Tensorflow, Seaborn / Matplotlib (EDA)
 - 🧩 Playing with Arduino, planning to dive into STM32, ESP32 and other microcontrollers
-
----
-
-## 📌 Projects
-
-- 🔍 **Crop Recommendation** — basic model inspired by Kaggle datasets *(published)*
-- 🧠 **More projects** coming soon!
-- ⚡ Love building systems that *optimize* — especially with operations research and algorithmic thinking
 
 ---
 
 ## 🌱 Currently Learning
 
-- Exploring embedded systems
 - Finishing my Master’s degree
+- Exploring embedded systems
 
 ---
 
