@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Denis Gogoli
 
 🎓 Master's student in Management Engineering based in Genoa, Italy  
-💼 Currently working with Microsoft Power Platform building low-code business solutions  
+💼 Currently working as a Data Analyst
 🚀 Actively looking for a more technical role — interested in **IoT**, **Data Science** and **Quantitative Analysis**
 
 ---
@@ -20,14 +20,14 @@
 - 👨‍💻 Languages: `Python`, `C` (learning)
 - 📊 Data Analysis and ML: Pandas, Nunmpy, Scikit-learn, Tensorflow, Seaborn / Matplotlib (EDA)
 - 🗄️ Database Management: SQL (PostgreSQL, MySQL, Oracle), NoSQL (MongoDB)
-- 🧩 Playing with Arduino, planning to dive into STM32, ESP32 and other microcontrollers
 
 ---
 
 ## 🌱 Currently Learning
 
 - Finishing my Master’s degree
-- Exploring embedded systems
+- Passionate about quantitative analysis
+- Diving into Data science
 
 ---
 
